@@ -34,5 +34,9 @@ Procedure :
 		iv. Get the output of classifier.
 		v. Write input image path and the prediction of classifier into csv file.
 	
+Link for materials : https://drive.google.com/drive/folders/1tDjR5Bfpj3Bp0BYmp89QnXcUIcl-9TxA?usp=sharing
+Put classifier_train_brain_tumor_dataset and brain_tumor_weights inside image classifier folder
+
+
 	
 Note : Python3 is default on manjaro. Use python3 on other Operating Systems.
